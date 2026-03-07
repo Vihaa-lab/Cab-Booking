@@ -173,27 +173,29 @@ Example controllers:
 
 ---
 
-# 📂 Project Structure
+## 📂 Project Structure
+
+```
 Cab-Booking
 │
-├ docs
-│ ├ technical-architecture.md
-│ ├ er-diagram.md
-│ ├ user-flow.md
-│ ├ roles-responsibilities.md
-│ ├ features.md
-│ └ mvc-pattern.md
+├── docs
+│   ├── technical-architecture.md
+│   ├── er-diagram.md
+│   ├── user-flow.md
+│   ├── roles-responsibilities.md
+│   ├── features.md
+│   └── mvc-pattern.md
 │
-├ images
-│ ├ architecture-diagram.png
-│ ├ er-diagram.png
-│ └ user-flow.png
+├── images
+│   ├── architecture-diagram.png
+│   ├── er-diagram.png
+│   └── user-flow.png
 │
-├ frontend
-├ backend
+├── frontend
+├── backend
 │
-└ README.md
-
+└── README.md
+```
 
 ---
 
