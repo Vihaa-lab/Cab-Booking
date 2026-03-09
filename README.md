@@ -212,7 +212,7 @@ Group Project – MERN Stack Development
 - Project Architecture
 - Backend Development
 - Frontend Development
-- Database Design
+- Database Design..
 
 ---
 
