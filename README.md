@@ -201,18 +201,20 @@ Cab-Booking
 
 # 🎥 Demo
 
-Demo video will be added after project completion.
+Project Demo Video and Files:
+
+[View Demo on Google Drive](https://drive.google.com/drive/folders/1iGj48dTgnWA1f1eFiCJfJGxZvStpNk7j?usp=sharing)
 
 ---
 
-# 👨‍💻 Contributors
+## 👨‍💻 Contributors
 
 Group Project – MERN Stack Development
 
 - Project Architecture
 - Backend Development
 - Frontend Development
-- Database Design..
+- Database Design
 
 ---
 
